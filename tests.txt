@@ -1,0 +1,110 @@
+input.txt (file is empty)
+
+
+result.txt
+Number of vertices must be positive and even
+
+
+input.txt
+0 0
+0 0
+
+result.txt
+0
+1 
+0 
+
+
+input.txt
+0 1
+1 0
+
+result.txt
+1
+0 
+1
+
+
+input.txt
+0 2
+2 0
+
+result.txt
+1
+0 
+1 
+
+
+input.txt
+0 -2
+-2 0
+
+result.txt
+1
+0 
+1 
+
+
+input.txt
+0 0
+1 1
+
+result.txt
+Adjacency matrix must be symmetric
+
+
+input.txt
+0 1 1
+1 0 0
+1 0 0
+
+result.txt
+Number of vertices must be positive and even
+
+
+input.txt
+0 1 0 0
+1 0 0 0
+0 0 0 1
+0 0 1 0
+
+result.txt
+0
+0 1 
+2 3
+
+
+input.txt
+1 1 1 0
+1 1 0 1
+1 0 1 0
+0 1 0 1
+
+result.txt
+1
+0 2 
+1 3
+
+
+input.txt
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+result.txt
+0
+0 2 
+1 3
+
+
+input.txt
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+
+result.txt
+4
+0 1 
+2 3
